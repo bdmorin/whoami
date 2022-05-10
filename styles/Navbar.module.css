@@ -1,0 +1,10 @@
+.navbarListItem {
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-top-color: rgb(33, 37, 43);
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: rgb(38, 42, 49);
+  letter-spacing: 0.5px;
+  text-transform: lowercase;
+}

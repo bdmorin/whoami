@@ -1,0 +1,35 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write \"{components,content,docs,pages,styles,utils}/**/*.{js,jsx,ts,tsx,css,scss,json,yaml,md}\"",
+    "format:check": "prettier --check \"{components,content,docs,pages,styles,utils}/**/*.{js,jsx,ts,tsx,css,scss,json,yaml,md}\""
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "gray-matter": "^4.0.3",
+    "marked": "^4.0.10",
+    "next": "12.1.0",
+    "next-seo": "^4.28.1",
+    "raw-loader": "^4.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "typed.js": "^2.0.12"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.1",
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7",
+    "husky": "^7.0.4",
+    "postcss": "^8.4.5",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.11"
+  },
+  "version": "0.3.1"
+}

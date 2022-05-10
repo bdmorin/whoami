@@ -1,0 +1,72 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {},
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "shockz09",
+      "name": "Rohit Mishra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87615572?v=4",
+      "profile": "https://github.com/shockz09",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Umayarz18",
+      "name": "Roewyn Umayam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61628982?v=4",
+      "profile": "https://www.roewynumayam.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "KendallDoesCoding",
+      "name": "Kendall Pinto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84712013?v=4",
+      "profile": "github.com/KendallDoesCoding",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "TechStudent11",
+      "name": "TechStudent10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76978184?v=4",
+      "profile": "https://www.youtube.com/channel/UCzb9_b2UY29xuY-S8BsmpOg",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "sri-nivas1227",
+      "name": "Srinivas Mekala",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83027963?v=4",
+      "profile": "https://github.com/sri-nivas1227",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rishabh1y",
+      "name": "rishabh1y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88483758?v=4",
+      "profile": "https://github.com/rishabh1y",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "projectName": "vscode-themed-portfolio",
+  "projectOwner": "Kira272921",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

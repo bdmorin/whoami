@@ -1,0 +1,93 @@
+{
+  "name": "Kira",
+  "about": {
+    "introduction": "Hi! 👋. I'm Kira, a full-stack web developer and open-source enthusiast who loves to create unique themed websites and CLIs ❤ based in India. I have been programming for over a year now.",
+    "whatILike": "I love documenting my developer journey by writing blog posts on Hashnode and DEV.to and I am also a hackathon hunter 🦁."
+  },
+  "contact": [
+    {
+      "name": "Discord",
+      "url": "https://links.kiradev.co/discord"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://links.kiradev.co/github"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://links.kiradev.co/twitter"
+    },
+    {
+      "name": "Hashnode",
+      "url": "https://blog.kiradev.co"
+    },
+    {
+      "name": "DEV.to",
+      "url": "https://links.kiradev.co/devto"
+    },
+    {
+      "name": "Showwcase",
+      "url": "https://links.kiradev.co/showwcase"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Soldity Quickstart",
+      "url": "https://links.kiradev.co/project/solidity-quickstart"
+    },
+    {
+      "name": "VSCode themed portfolio",
+      "url": "https://links.kiradev.co/project/vsc-portfolio"
+    },
+    {
+      "name": "Unix terminal themed portfolio",
+      "url": "https://links.kiradev.co/project/unix-portfolio"
+    },
+    {
+      "name": "It's Time To Focus",
+      "url": "https://links.kiradev.co/project/its-time-to-focus"
+    },
+    {
+      "name": "tailwindcsscli",
+      "url": "https://links.kiradev.co/project/tailwindcsscli"
+    },
+    {
+      "name": "buildnoticli",
+      "url": "https://links.kiradev.co/project/buildnoticli"
+    },
+    {
+      "name": "React Next.js Snippets",
+      "url": "https://links.kiradev.co/project/react-nextjs-snippets"
+    }
+  ],
+  "skills": [
+    {
+      "method": "programmingLanguages",
+      "comment": "JavaScript, Python"
+    },
+    {
+      "method": "frontend",
+      "comment": "HTML, CSS, SaaS, TailwindCSS, Bootstrap, ReactJS, NextJS, Svelte"
+    },
+    {
+      "method": "backend",
+      "comment": "NodeJS, ExpressJS"
+    },
+    {
+      "method": "database",
+      "comment": "MongoDB"
+    },
+    {
+      "method": "backendAsAService",
+      "comment": "Heroku, Firebase"
+    },
+    {
+      "method": "tools",
+      "comment": "Git, GitHub, VSCode, Figma, Codepen, Notion, Trello, Netlify, Vercel"
+    },
+    {
+      "method": "currentlyLearning",
+      "comment": "Solidity"
+    }
+  ]
+}
